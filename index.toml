@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "3e41614a6ba8fa34f9ab8ce354cd4e9fccaf1dc28686f0d4bcaa99011c425ee8"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
